@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  background: chartreuse;
+  color: rgb(119, 0, 255);
+  text-align: center
+}
+
+.navbar {
+  background-color: black;
+  font-size: 35px;
+}
+
+#BMX {
+  color: cyan
+}
+
+#Skateboarding {
+  color: salmon;
+}
+
+#Skiing {
+  color: orangered;
+}
